@@ -1,4 +1,4 @@
-# Footprinting-Reconnaissance-Network-Scanning-Lab
+# Footprinting & Reconnaissance Network Scanning Lab
 
 # 🕵️ Footprinting, Reconnaissance & Network Scanning Lab
 
